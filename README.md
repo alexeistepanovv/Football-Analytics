@@ -1,6 +1,12 @@
 # Football Analytics
 ## Analytics of Football Data (SQL)
 
+Hi! This project was created with three main goals in mind: firstly, to compile a dataset of football data suitable for potential machine learning projects; secondly, to reacquaint myself with football, a sport I've neglected in favor of watching the NBA for several years; and lastly, to practice and refine my SQL skills
+
+## Source and Acknowledgment
+This dataset was sourced from the work of David Cereijo. His comprehensive collection and organization of football data have been instrumental in the creation of this project. If you use this dataset in your research or projects, please credit him.
+For more information and to explore the dataset, visit: [David Cereijo's Football Data on Data World](https://data.world/dcereijo).
+
 **Table of Contents**
 - [Dataset Overview](#dataset-overview)
 - [Content Details](#content-details)
